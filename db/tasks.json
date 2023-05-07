@@ -1,0 +1,22 @@
+[
+  {
+    "id": "1",
+    "title": "Write a project",
+    "completed": false
+  },
+  {
+    "id": "2",
+    "title": "Do laundry",
+    "completed": false
+  },
+  {
+    "id": "3",
+    "title": "Finish project",
+    "completed": true
+  },
+  {
+    "id": "286d6c5b-76e6-4c9f-a94c-958bbef5aaa3",
+    "title": "Learn Typescript",
+    "completed": false
+  }
+]
