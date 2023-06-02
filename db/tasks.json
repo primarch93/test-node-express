@@ -18,5 +18,15 @@
     "id": "286d6c5b-76e6-4c9f-a94c-958bbef5aaa3",
     "title": "Learn Typescript",
     "completed": false
+  },
+  {
+    "id": "ce3d7cd9-def7-4afa-8549-80f43310d04d",
+    "title": "Learn Typescript 2",
+    "completed": false
+  },
+  {
+    "id": "2820cae5-52d8-4093-b5f4-33568e2a0703",
+    "title": "Learn Typescript 2",
+    "completed": "false"
   }
 ]

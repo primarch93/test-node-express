@@ -1,5 +1,5 @@
 {
-  "name": "test-node-express",
+  "name": "training-nodejs-01",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,8 +11,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "bcryptjs": "^2.4.3",
     "dotenv": "^16.0.3",
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "joi": "^17.9.2",
+    "mongoose": "^7.2.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.22"
